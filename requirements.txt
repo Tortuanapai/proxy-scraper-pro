@@ -1,0 +1,7 @@
+customtkinter
+playwright
+aiohttp
+aiohttp-socks
+beautifulsoup4
+lxml
+requests
